@@ -1,22 +1,23 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: guitarious
+  logo: '~/assets/images/guitarious-icon.png'
+  site: 'https://guitarious.netlify.app'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3Msss
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: guitarious
+    template: '%s — guitarious'
+  description: "\U0001F680 a guide for guitar lovers"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: guitarious
     images:
       - url: '~/assets/images/default.png'
         width: 1200
